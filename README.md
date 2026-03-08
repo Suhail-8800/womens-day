@@ -124,7 +124,7 @@ Example:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/womens-day-interactive-website.git
+git clone https://github.com/Suhail-8800/womens-day.git
 ```
 
 Navigate into the project folder
