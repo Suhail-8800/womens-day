@@ -1,16 +1,195 @@
-# React + Vite
+# 🌸 Women's Day Interactive Web Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web platform built to celebrate **International Women’s Day** by highlighting women's contributions across healthcare, science, education, and leadership.
 
-Currently, two official plugins are available:
+Instead of a simple greeting website, this project creates an **interactive storytelling experience** where users can explore statistics, discover inspirational leaders, generate motivational quotes, and share appreciation messages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+# ✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎉 Interactive Home Page
 
-## Expanding the ESLint configuration
+* Animated gradient background
+* Floating celebration bubbles
+* Clickable bubble burst animation with greetings
+* Real-world statistics counters
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📊 Impact Visualization
+
+Interactive simulation demonstrating women's contributions in major sectors:
+
+* Healthcare 🏥
+* Science 🔬
+* Education 🎓
+
+Features:
+
+* Real-world statistics
+* Dynamic progress indicators
+* Interactive sector exploration
+
+## 🌍 Women Leaders Gallery
+
+Profiles of influential women who changed the world.
+
+Includes:
+
+* Marie Curie
+* Kalpana Chawla
+* Malala Yousafzai
+* Indra Nooyi
+
+Each profile links to external biographies for deeper learning.
+
+## 💡 Inspiration Generator
+
+Users can generate motivational quotes from inspiring women.
+
+Features:
+
+* Random quote generator
+* Share quotes directly on:
+
+  * WhatsApp
+  * Twitter (X)
+  * Facebook
+  * LinkedIn
+  * Email
+
+## 💜 Appreciation Wall
+
+A community section where users can write messages celebrating women who inspire them.
+
+Encourages participation and positive engagement.
+
+---
+
+# 🛠 Tech Stack
+
+Frontend Framework
+React
+
+Build Tool
+Vite
+
+Styling
+Tailwind CSS
+
+Routing
+React Router
+
+Key Concepts Used
+
+* React State Management
+* Conditional Rendering
+* Interactive Animations
+* Event Handling
+* Responsive Design
+
+---
+
+# 🎨 UI/UX Highlights
+
+* Interactive storytelling approach
+* Smooth animations
+* Responsive layout
+* Social sharing functionality
+* Community participation
+
+The project focuses on **engagement, awareness, and inspiration**.
+
+---
+
+# 📸 Screenshots
+
+(Add screenshots after uploading images)
+
+Example:
+
+![Home Page](screenshots/home.png)
+
+![Impact Page](screenshots/impact.png)
+
+![Women Leaders](screenshots/leaders.png)
+
+![Inspiration Generator](screenshots/inspiration.png)
+
+![Appreciation Wall](screenshots/wall.png)
+
+---
+
+# 🚀 How to Run the Project
+
+Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/womens-day-interactive-website.git
+```
+
+Navigate into the project folder
+
+```bash
+cd womens-day-interactive-website
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Open the application
+
+```
+http://localhost:5173
+```
+
+---
+
+# 🎯 Project Objective
+
+This project was created to:
+
+* Celebrate **International Women’s Day**
+* Raise awareness about women's global impact
+* Demonstrate modern frontend development using React
+* Create an engaging interactive user experience
+
+---
+
+# 💡 Possible Future Improvements
+
+* Backend integration for storing appreciation messages
+* User authentication for message posting
+* More global statistics and visualizations
+* Additional inspirational women profiles
+* Advanced animations and storytelling features
+
+---
+
+# 👨‍💻 Author
+
+**Suhail Rajput**
+
+Computer Science Student | Aspiring Software Developer
+
+GitHub
+https://github.com/Suhail-8800
+
+LinkedIn
+https://www.linkedin.com/in/suhail-rajput-64158722b/
+
+---
+
+# 🌸 Happy Women's Day
+
+> "There is no limit to what we, as women, can accomplish."
+
+— Michelle Obama
