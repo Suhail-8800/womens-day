@@ -1,0 +1,35 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+import Navbar from "./components/Navbar";
+
+import Home from "./pages/Home";
+import Impact from "./pages/Impact";
+import Women from "./pages/Women";
+import Inspiration from "./pages/Inspiration";
+import Wall from "./pages/Wall";
+import Footer from "./components/Footer";
+
+export default function App(){
+
+return(
+
+<Router>
+
+<Navbar/>
+
+<Routes>
+
+<Route path="/" element={<Home/>}/>
+<Route path="/impact" element={<Impact/>}/>
+<Route path="/women" element={<Women/>}/>
+<Route path="/inspiration" element={<Inspiration/>}/>
+<Route path="/wall" element={<Wall/>}/>
+
+</Routes>
+<Footer/>
+
+</Router>
+
+);
+
+}

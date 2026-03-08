@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradientMove 8s ease infinite;
+}
+
+.bubble{
+  background:white;
+  color:#7c3aed;
+  padding:10px 18px;
+  border-radius:999px;
+  box-shadow:0 4px 10px rgba(0,0,0,0.2);
+  transition:transform 0.3s;
+}
+
+.bubble:hover{
+  transform:scale(1.1);
+}
+
+.pop{
+  animation: bubblePop 0.6s forwards;
+}
+
+@keyframes bubblePop{
+
+0%{
+transform:scale(1);
+opacity:1;
+}
+
+50%{
+transform:scale(1.4);
+}
+
+100%{
+transform:scale(0);
+opacity:0;
+}
+
+}
