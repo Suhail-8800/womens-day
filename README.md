@@ -107,15 +107,15 @@ The project focuses on **engagement, awareness, and inspiration**.
 
 Example:
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Homepage.png)
 
-![Impact Page](screenshots/impact.png)
+![Impact Page](screenshots/ImppactPage.png)
 
-![Women Leaders](screenshots/leaders.png)
+![Women Leaders](screenshots/WomenLeader.png)
 
-![Inspiration Generator](screenshots/inspiration.png)
+![Inspiration Generator](screenshots/Inspiration.png)
 
-![Appreciation Wall](screenshots/wall.png)
+![Appreciation Wall](screenshots/Appreciation.png)
 
 ---
 
