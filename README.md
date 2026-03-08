@@ -102,9 +102,6 @@ The project focuses on **engagement, awareness, and inspiration**.
 ---
 
 # 📸 Screenshots
-
-(Add screenshots after uploading images)
-
 Example:
 
 ![Home Page](screenshots/Homepage.png)
