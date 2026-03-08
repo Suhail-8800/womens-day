@@ -130,7 +130,7 @@ git clone https://github.com/Suhail-8800/womens-day.git
 Navigate into the project folder
 
 ```bash
-cd womens-day-interactive-website
+cd women's-day
 ```
 
 Install dependencies
